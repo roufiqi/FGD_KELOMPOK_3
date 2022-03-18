@@ -1,2 +1,6 @@
 # FGD_KELOMPOK_3
-Nama Kelompok :  Ahmad Solikhin Gayuh Raharjo Farhan Ramadhan Muhammad Roufiqi Desma
+Nama Kelompok :  
+1. Ahmad Solikhin Gayuh Raharjo 
+2. Dodi
+3. Farhan Ramadhan 
+4. Muhammad Roufiqi Desma
